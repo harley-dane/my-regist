@@ -1,3 +1,3 @@
 # my-regist
-This just a simple way to used node wth authencation to login and register. I will recoment bofore you you the code make sure you nstal the latedt verson of nodejs
-Hope this wll be helpful
+This is  just a simple way to used node with authencation to login and register. I will recomend before using  the code make sure you install the latest version of nodejs
+Hope this will be helpful
